@@ -3,8 +3,12 @@ develop又改了
 是的 改
  HEAD
 为什么不一样啊
+<<<<<<< HEAD
 
 mastergai
 master改
 嗯哼
  master
+=======
+这是在girhub上面改的！嗯
+>>>>>> 35d6c97e25ef5cce1165cfb056f2bd727ee82ad4
